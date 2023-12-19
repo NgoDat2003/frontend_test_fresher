@@ -1,0 +1,27 @@
+.form_btn-col {
+  margin-top: 20px;
+  .form_btn-left {
+    margin-right: 10px;
+  }
+}
+.table_user {
+  .table_header {
+    margin-bottom: 20px;
+    .table_header_button button {
+      font-size: 14px;
+      text-align: center;
+      margin: 0 10px;
+      svg{
+        margin-right: 4px;
+        
+      }
+    }
+  }
+  h3 {
+    margin: 0;
+  }
+}
+* {
+  padding: 0;
+  margin: 0;
+}

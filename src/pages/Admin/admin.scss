@@ -1,0 +1,16 @@
+.main__container{
+    max-width: 1200px;
+    margin: 0 auto;
+    .layout__container{
+        // height: 100%;
+        h3{
+            text-align: center;
+        }
+        .header__container-admin{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 100%;
+        }
+    }
+}
